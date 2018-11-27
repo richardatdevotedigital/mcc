@@ -1,3 +1,3 @@
-.container.delivery {
+.container.delivery,.pull-content .page > .container {
     width: 100% !important;
 }
